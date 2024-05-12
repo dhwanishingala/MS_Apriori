@@ -1,4 +1,4 @@
-# Market Analysis Using MSApriori Algorithm
+# MSApriori Algorithm for Market Analysis
 This Python implementation of the MSApriori algorithm aims to conduct market basket analysis on supermarket transaction data. By identifying frequent itemsets and uncovering consumer behavior patterns, this tool assists businesses in optimizing marketing strategies, product placements, and inventory management based on detailed insights into purchasing trends.
 
 ## Features
